@@ -33,7 +33,7 @@ nav {
 .logo {
     font-size: 1.5rem;
     font-weight: bold;
-    color: #2563eb;
+    color: #4f46e5;
 }
 
 nav ul {
@@ -50,7 +50,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #2563eb;
+    color: #4f46e5;
 }
 
 /* Main Content */
@@ -59,7 +59,7 @@ main {
 }
 
 .hero {
-    background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%);
+    background: linear-gradient(135deg, #4f46e5 0%, #2e1065 100%);
     color: white;
     padding: 6rem 2rem;
     text-align: center;
@@ -77,7 +77,7 @@ main {
 }
 
 h2 {
-    color: #1e40af;
+    color: #4f46e5;
     margin-bottom: 1.5rem;
 }
 
